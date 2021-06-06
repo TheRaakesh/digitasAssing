@@ -1,3 +1,8 @@
+# to run this in our local machine
+download the code in you machine , then change your dir to the code dir and run `npm i` (it will intall all the dependency)
+and at last run command `npm start` 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
