@@ -3,6 +3,15 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+// import bootstrap from '.bootstrap/dist';
+import 'font-awesome/css/font-awesome.css';
+// import 'font-awesome/css/all.css'
+import { library } from '@fortawesome/fontawesome-free';
+// import { fab } from '@fortawesome/free-brands-svg-icons';
+import { fab } from '@fortawesome/fontawesome-free';
+import 'bootstrap/dist/css/bootstrap.css';
+import 'bootstrap/js/dist/tab';
+import './fontaw'
 
 ReactDOM.render(
   <React.StrictMode>
